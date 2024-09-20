@@ -1,0 +1,30 @@
+.main1 {
+    height: 100vh;
+    width: 400px;
+    background-color: #2d3a8c;
+    color: white;
+}
+
+.mad {
+    height: 80vh;
+    width: 400px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    color: black;
+}
+
+.min {
+    height: 60vh;
+    width: 350px;
+    margin: 25px;
+    background-color: #f5f7fa;
+}
+
+#submitBtn {
+    background-color: blue;
+    margin-left: 200px;
+}
+
+#bookmarksList {
+    background-color: #7b8794;
+}
